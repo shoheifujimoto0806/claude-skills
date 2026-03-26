@@ -1,0 +1,40 @@
+name: YouTrust
+url: https://youtrust.jp
+active: true
+auth: browser_session
+actions:
+  search: true
+  create_list: true
+  add_to_list: true
+  remove_from_list: true
+constraints:
+  scout_message_max_chars: 2000
+  recommended_message_length: "250-400"
+  daily_send_limit: null
+  search_filters:
+    - name: 転職意欲
+      type: select
+      options: [すべて, 積極的に検討している, 検討している, よい案件があれば, まったく考えていない]
+    - name: 副業意欲
+      type: select
+    - name: 職種
+      type: select
+    - name: サブ職種
+      type: select
+    - name: 希望の働き方
+      type: select
+    - name: 希望の働く場所
+      type: select
+    - name: 最終ログイン
+      type: select
+    - name: 経験社数
+      type: select
+    - name: 卒業年度
+      type: select_range
+    - name: フリーワード
+      type: text
+      conjunction: [AND, OR]
+    - name: 除外ワード
+      type: text
+  pagination: true
+known_issues: []

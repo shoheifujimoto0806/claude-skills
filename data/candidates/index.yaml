@@ -1,0 +1,15 @@
+schema_version: 1
+generated_at: 2026-03-26
+candidates:
+  - name: null
+    platform_accounts:
+      - platform: youtrust
+        user_id: "YT2291215"
+        profile_url: "https://admin.youtrust.jp/headhunter/users/227e5a39119485c721307cf4c793c40f"
+    title: "開発本部 弁護士ドットコム開発部"
+    company: "弁護士ドットコム株式会社"
+    location: "北海道"
+    skills: [AWS, PHP, TypeScript, アーキテクチャ設計, テックリード, 要件定義]
+    profile_summary: "弁護士ドットコムで開発部に所属。前職WAKUWAKUでマネージャー。20年以上のエンジニア経験。"
+    jobs: [test-dummy]
+    last_seen: 2026-03-26

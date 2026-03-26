@@ -1,0 +1,58 @@
+schema_version: 1
+job_id: test-dummy
+client: テスト株式会社（動作テスト用）
+created_at: 2026-03-26
+requirements:
+  title: "[テスト] バックエンドエンジニア"
+  must_have:
+    - Go または Python での開発経験（2年以上）
+    - AWS を用いたインフラ構築経験
+    - Git を用いたチーム開発経験
+  nice_to_have:
+    - Kubernetes / Docker の運用経験
+    - CI/CD パイプライン構築経験
+  years_experience: 2
+  salary_range: "600-900万円"
+  notes: |
+    動作テスト用のダミー求人。実際の募集ではない。
+personas:
+  - name: SaaS企業のバックエンドエンジニア
+    background: |
+      SaaS企業でバックエンド開発を2〜3年経験。Go または Python が主戦場。
+      AWS でのインフラ構築も経験あり。次のチャレンジを探している。
+    keywords: [Go, Python, AWS, バックエンド, SaaS]
+    target_companies: [テスト企業A, テスト企業B]
+    target_titles: [バックエンドエンジニア, サーバーサイドエンジニア]
+    career_motivation: |
+      より大きな裁量で開発に携わりたい。
+evaluation_framework:
+  score_criteria:
+    5: "Go/Python + AWS + チーム開発経験。即戦力"
+    4: "Go/Python + クラウド経験あり。十分にマッチ"
+    3: "バックエンド経験はあるが言語が異なる"
+    2: "Web開発経験はあるがバックエンド寄りではない"
+    1: "要件と方向性が異なる"
+  job_specific_criteria:
+    - "Go または Python の実務経験があるか → スコア4以上の必須条件"
+    - "AWS でのインフラ経験があるか → スコア4以上の必須条件"
+  bonus_factors:
+    - Kubernetes 運用経験
+    - CI/CD 構築経験
+  attention_point_rules: |
+    マッチ度4以上の候補者に2〜3点の着目ポイントを作成。
+search_conditions:
+  keywords: [Go, Python, AWS, バックエンド]
+  broad_keywords: [エンジニア, サーバーサイド]
+  narrow_keywords: [Go, Python, AWS, Kubernetes, Docker]
+scout_message_base: |
+  {候補者名}様
+
+  はじめまして。
+  合同会社Plus X代表の藤本と申します。
+
+  【テスト用ダミーメッセージ】
+  これは動作テスト用のスカウト文面です。実際には送信しません。
+
+  {着目ポイント}
+
+  {日程調整セクション}

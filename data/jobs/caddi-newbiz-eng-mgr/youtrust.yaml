@@ -1,0 +1,385 @@
+schema_version: 1
+job_id: caddi-newbiz-eng-mgr
+platform: youtrust
+list_id: null
+list_name: "新規事業開発エンジニア_キャディ案件"
+source_query: "React TypeScript AWS Go"
+search_filters_used:
+  職種: エンジニアリング
+  フリーワード: "React TypeScript AWS Go"
+  転職意欲: すべて
+hit_count: 802
+updated_at: 2026-03-26
+candidates:
+  - user_id: "YT8181369"
+    name: null
+    profile_url: "https://admin.youtrust.jp/headhunter/users/601930a56b1b7f7e829a4abd14786979"
+    title: バックエンドエンジニア（実質フルスタック）
+    company: 株式会社ゼロワンブースター
+    location: null
+    skills: [React, TypeScript, Next.js, Node.js, Go, AWS, GCP, Terraform, Docker, Python, Vue.js, Ruby on Rails, DDD, マイクロサービス, UIデザイン, UXデザイン, プロジェクトマネジメント]
+    profile_summary: |
+      ホーチミン工科大学CS卒。React/TypeScript/Next.js 5年以上、Go/AWS/GCP 3年以上のフルスタックエンジニア。
+      DDD・マイクロサービス構成を意識した設計力が強み。AWS CDK/TerraformによるIaC、CI/CD構築も主体的に推進。
+      医療支援システム、ECサイト、DeFiサービス等の多様なプロダクト開発経験。
+      日英バイリンガル。転職を積極的に検討中。
+    match_score: 5
+    match_notes: |
+      必須スキル全カバー（React+TypeScript+Node.js+Go+AWS+GCP）。
+      フルスタック経験が豊富で、0→1フェーズでの設計〜実装を一気通貫で担える。
+      DDD・マイクロサービス設計の知見あり。転職積極検討中。
+    scout_message: |
+      はじめまして、合同会社Plus X代表の藤本と申します。ご経歴を拝見し、ぜひお話しさせていただきたくご連絡しました。
+
+      製造業向けデータプラットフォームを展開する急成長スタートアップで、新規事業開発エンジニアを募集しています。200億円以上の大型調達実施済みの企業です。
+
+      ◎ React/TypeScript/Next.jsに加えGo/AWS/GCPまでカバーされるフルスタック力に惹かれました
+      ◎ DDD・マイクロサービス設計の知見をお持ちで、0→1の設計をリードいただけるのではないかとお見受けしています
+      ◎ 医療・EC・DeFi等マルチドメインでのご経験から、新領域への適応力が高いのではないかとお見受けしています
+
+      ◎ 新規事業の立ち上げフェーズで技術選定から携われます
+      ◎ グローバル展開中で日英バイリンガルのご経験が活きる環境です
+      ◎ 裁量が大きく、アーキテクチャ設計から推進いただけます
+
+      少しでもご興味あれば、30分ほどカジュアルにお話しできると嬉しいです。
+      https://app.spirinc.com/patterns/availability-sharing/9782b79f-044a-44fc-8cb3-98cef3d07975/confirm
+    status: draft
+    added_at: 2026-03-26
+    synced_at: null
+    attempt_count: 0
+    last_error: null
+    run_id: "2026-03-26-1100"
+
+  - user_id: "YT4052889"
+    name: null
+    profile_url: "https://admin.youtrust.jp/headhunter/users/e3d46bebdb23d1616bb168680fb98835"
+    title: Webエンジニア
+    company: 株式会社アプリズム
+    location: null
+    skills: [AWS, CSS, Docker, Firebase, Flutter, GCP, Go, HTML, Java, JavaScript, Kotlin, Laravel, MySQL, Next.js, Node.js, PHP, Python, React, React.js, Ruby, Ruby on Rails, SQL, Terraform, TypeScript, Vue.js]
+    profile_summary: |
+      全主要技術5年以上の経験を持つフルスタックエンジニア。
+      AWS/GCP/Go/React/TypeScript/Next.js/Flutter いずれも5年以上。
+      転職を積極的に検討中。
+    match_score: 5
+    match_notes: |
+      必須スキル全カバー。全技術5年以上の圧倒的な経験値。
+      フルスタックで即戦力。転職積極検討中。
+    scout_message: |
+      はじめまして、合同会社Plus X代表の藤本と申します。プロフィールを拝見し、ぜひお声がけしたくご連絡しました。
+
+      製造業向けデータプラットフォームを展開する急成長スタートアップで、新規事業開発エンジニアを募集しています。200億円以上の大型調達実施済みの企業です。
+
+      ◎ React/TypeScript/AWS/GCP/Go/Next.js/Flutter全て5年以上という圧倒的な技術幅に驚きました
+      ◎ フロントからインフラまで一貫して対応できる力をお持ちではないかとお見受けしています
+      ◎ これだけ幅広い技術を深くお使いの方はなかなかいらっしゃらないと感じています
+
+      ◎ 新規事業の0→1フェーズで技術選定からお任せできる環境です
+      ◎ フルスタック力を存分に発揮いただけるポジションです
+      ◎ 事業インパクトを直接感じられるフェーズです
+
+      カジュアルに30分ほどお話しできると嬉しいです。
+      https://app.spirinc.com/patterns/availability-sharing/9782b79f-044a-44fc-8cb3-98cef3d07975/confirm
+    status: draft
+    added_at: 2026-03-26
+    synced_at: null
+    attempt_count: 0
+    last_error: null
+    run_id: "2026-03-26-1100"
+
+  - user_id: "YT9902021"
+    name: null
+    profile_url: "https://admin.youtrust.jp/headhunter/users/a0c6f48e3d1023ce59805eea47604445"
+    title: テックリード
+    company: 株式会社SUPERNOVA
+    location: 海外
+    skills: [AWS, GCP, Go, Kubernetes, Next.js, Node.js, React, Ruby, Ruby on Rails, Terraform, TypeScript, Python, Docker, Firebase, データ分析, プロジェクトマネジメント]
+    profile_summary: |
+      フルスタックエンジニア。Next.js/Ruby/Go/PHP/Pythonを用いたWebアプリ開発経験。
+      AWS/GCPを活用したサーバーレスインフラ設計・運用。
+      転職・副業ともに積極的に検討中。フルリモート/海外希望。
+    match_score: 5
+    match_notes: |
+      必須スキル全カバー。フルスタック+インフラ設計+テックリード経験。
+      フルリモート/海外希望のため勤務形態の調整が必要だが、スキル的には即戦力。
+    scout_message: |
+      はじめまして、合同会社Plus X代表の藤本と申します。ご経歴を拝見し、ぜひご連絡させていただきました。
+
+      製造業向けデータプラットフォームを展開する急成長スタートアップで、新規事業開発エンジニアを募集しています。200億円以上の大型調達実施済みの企業です。
+
+      ◎ Next.js/Go/AWS/GCPでのフルスタック開発に加え、サーバーレスインフラ設計までカバーされている点が素晴らしいです
+      ◎ K8s/Terraformを活用したインフラ設計力をお持ちではないかとお見受けしています
+      ◎ テックリードとしてプロジェクトを推進されたご経験が、新規事業の立ち上げに直結すると感じました
+
+      ◎ 技術選定からアーキテクチャ設計まで裁量を持って進められます
+      ◎ フルリモート対応可能な環境です
+      ◎ グローバル展開中で海外拠点とも連携するフェーズです
+
+      30分ほどカジュアルにお話しできると嬉しいです。
+      https://app.spirinc.com/patterns/availability-sharing/9782b79f-044a-44fc-8cb3-98cef3d07975/confirm
+    status: draft
+    added_at: 2026-03-26
+    synced_at: null
+    attempt_count: 0
+    last_error: null
+    run_id: "2026-03-26-1100"
+
+  - user_id: "YT3708082"
+    name: null
+    profile_url: "https://admin.youtrust.jp/headhunter/users/ccbaac3f1075eb2ac3359a2ea7bdad48"
+    title: システムエンジニア
+    company: 株式会社80&Company
+    location: null
+    skills: [AWS, C#, Docker, GitHub, Go, Java, JavaScript, Laravel, MySQL, Node.js, PHP, PostgreSQL, Python, React.js, Ruby on Rails, SQL, TypeScript, Vue.js, プロジェクトマネジメント]
+    profile_summary: |
+      AWS 3年+、Go 3年+、React.js 3年+、TypeScript 3年+、Node.js 3年+、Python 3年+。
+      バックエンド中心にフルスタック対応。PM補佐経験あり。
+      転職を積極的に検討中。
+    match_score: 5
+    match_notes: |
+      必須スキル全カバー（React/TS/Go/AWS/Node.js 各3年+）。
+      フルスタック+PM経験。転職積極検討中。
+    scout_message: |
+      はじめまして、合同会社Plus X代表の藤本と申します。プロフィールを拝見し、ご連絡させていただきました。
+
+      製造業向けデータプラットフォームを展開する急成長スタートアップで、新規事業開発エンジニアを募集しています。200億円以上の大型調達実施済みの企業です。
+
+      ◎ AWS/Go/React/TypeScript/Node.js各3年以上のバランスの取れたスキルセットに惹かれました
+      ◎ バックエンド中心にフルスタックで対応されている点が、新規事業開発にマッチすると感じています
+      ◎ PM補佐のご経験から、開発だけでなくプロジェクト推進もされてきたのではないかとお見受けしています
+
+      ◎ 新規事業の立ち上げフェーズで幅広く活躍いただけるポジションです
+      ◎ エンジニアリングとマネジメント両方のキャリアパスがあります
+      ◎ 200億円以上の資金力を背景に腰を据えて開発に取り組める環境です
+
+      カジュアルに30分ほどお話しできると嬉しいです。
+      https://app.spirinc.com/patterns/availability-sharing/9782b79f-044a-44fc-8cb3-98cef3d07975/confirm
+    status: draft
+    added_at: 2026-03-26
+    synced_at: null
+    attempt_count: 0
+    last_error: null
+    run_id: "2026-03-26-1100"
+
+  - user_id: "YT5752813"
+    name: null
+    profile_url: "https://admin.youtrust.jp/headhunter/users/5f0db66a1e304ff52632722fd6aaddcf"
+    title: Webエンジニア
+    company: AsterTechs
+    location: null
+    skills: [AWS, DDD, Docker, Git/GitHub, Go, HTML, Java, JavaScript, Laravel, MySQL, Next.js, Nuxt.js, PHP, Python, React, SQL, TypeScript, Vue.js]
+    profile_summary: |
+      10年以上のWeb開発経験を持つフリーランスエンジニア。
+      PHPやJavaScriptを中心にバックエンドからフロントエンドまで対応。
+      DDD・クリーンアーキテクチャの設計に注力。若手育成やチーム開発効率化の実績。
+      「転職はよい案件があれば」。
+    match_score: 5
+    match_notes: |
+      10年+の豊富な経験。AWS/Go/React/TypeScript/DDD。
+      設計力が強く、0→1フェーズのアーキテクチャ設計をリードできる。
+    scout_message: |
+      はじめまして、合同会社Plus X代表の藤本と申します。ご経歴を拝見し、ぜひお話しさせていただきたくご連絡しました。
+
+      製造業向けデータプラットフォームを展開する急成長スタートアップで、新規事業開発エンジニアを募集しています。200億円以上の大型調達実施済みの企業です。
+
+      ◎ 10年以上のWeb開発経験に裏打ちされた技術力に惹かれました
+      ◎ DDD・クリーンアーキテクチャへの深い知見をお持ちで、設計面からプロダクトをリードいただけるのではないかとお見受けしています
+      ◎ 若手育成やチーム開発効率化のご実績から、チームビルディングにも長けていらっしゃると感じました
+
+      ◎ 新規事業のアーキテクチャ設計を初期段階からお任せできるポジションです
+      ◎ 設計思想を重視するカルチャーで、ご知見を存分に活かせます
+      ◎ チーム拡大フェーズで育成・組織づくりにも関わっていただけます
+
+      30分ほどカジュアルにお話しできると嬉しいです。
+      https://app.spirinc.com/patterns/availability-sharing/9782b79f-044a-44fc-8cb3-98cef3d07975/confirm
+    status: draft
+    added_at: 2026-03-26
+    synced_at: null
+    attempt_count: 0
+    last_error: null
+    run_id: "2026-03-26-1100"
+
+  - user_id: "YT8288156"
+    name: null
+    profile_url: "https://admin.youtrust.jp/headhunter/users/d93ee5f0451f5af737303331bf3486b2"
+    title: エンジニアリングマネージャー
+    company: エキサイト株式会社
+    location: 東京都
+    skills: [AWS, Go, MySQL, PHP, Python, React.js, TypeScript, Vue.js, エンジニア採用, プロジェクトマネジメント]
+    profile_summary: |
+      エキサイトでEM。toC向けサービス開発が中心。
+      事業立ち上げを3年で3プロジェクト経験。1→10に向けた開発と組織造り。
+      「転職はよい案件があれば」「副業はよい案件があれば」。97人が興味あり。
+    match_score: 5
+    match_notes: |
+      EM経験+事業立ち上げ3回+フルスタック（AWS/Go/React/TypeScript）。
+      0→1/1→10の経験が豊富で、マネージャー候補として最適。
+    scout_message: |
+      はじめまして、合同会社Plus X代表の藤本と申します。ご経歴を拝見し、ぜひお声がけさせていただきました。
+
+      製造業向けデータプラットフォームを展開する急成長スタートアップで、新規事業開発エンジニアを募集しています。200億円以上の大型調達実施済みの企業です。
+
+      ◎ EMとして3年で3つの事業立ち上げを経験されている点が非常に魅力的です
+      ◎ 1→10フェーズの開発と組織づくりを両立されてきたのではないかとお見受けしています
+      ◎ AWS/Go/React/TypeScriptの技術力をお持ちのマネージャーはとても貴重だと感じています
+
+      ◎ 新規事業の立ち上げ経験をダイレクトに活かせるポジションです
+      ◎ 開発組織の拡大フェーズで、組織設計から携われます
+      ◎ 技術とマネジメント両面でリーダーシップを発揮いただけます
+
+      カジュアルに30分ほどお話しできると嬉しいです。
+      https://app.spirinc.com/patterns/availability-sharing/9782b79f-044a-44fc-8cb3-98cef3d07975/confirm
+    status: draft
+    added_at: 2026-03-26
+    synced_at: null
+    attempt_count: 0
+    last_error: null
+    run_id: "2026-03-26-1100"
+
+  - user_id: "YT1860500"
+    name: null
+    profile_url: "https://admin.youtrust.jp/headhunter/users/b98272cf01492622551e3b12d2300166"
+    title: バックエンドエンジニア
+    company: EPAM Systems
+    location: 神奈川県
+    skills: null
+    profile_summary: |
+      約11年のエンジニア経験。Hitachi、IBMで勤務後、EPAM Systemsでリーダーエンジニア。
+      転職を検討中。フルリモート希望（神奈川/海外）。185人が興味あり。
+      詳細スキルは要プロフィール確認。
+    match_score: 5
+    match_notes: |
+      11年の経験、大手+外資のリーダーエンジニア。
+      詳細スキルの確認が必要だが、検索条件（React/TS/AWS/Go AND）にヒットしているためフルスタック要件を満たす可能性が高い。
+    scout_message: |
+      はじめまして、合同会社Plus X代表の藤本と申します。ご経歴を拝見し、ぜひご連絡させていただきました。
+
+      製造業向けデータプラットフォームを展開する急成長スタートアップで、新規事業開発エンジニアを募集しています。200億円以上の大型調達実施済みの企業です。
+
+      ◎ 11年にわたるエンジニア経験の中で大手からグローバル企業まで幅広くご活躍されている点に惹かれました
+      ◎ リーダーエンジニアとして大規模開発を推進されてきたのではないかとお見受けしています
+      ◎ 日系大手と外資系両方のカルチャーをご存知な点が、今回のポジションに合うと感じています
+
+      ◎ 新規事業の立ち上げフェーズで技術リードを担えるポジションです
+      ◎ グローバル展開中のプロダクトに携わっていただけます
+      ◎ これまでの大規模開発の知見を活かしつつ、スピード感ある開発を楽しめる環境です
+
+      カジュアルに30分ほどお話しできると嬉しいです。
+      https://app.spirinc.com/patterns/availability-sharing/9782b79f-044a-44fc-8cb3-98cef3d07975/confirm
+    status: draft
+    added_at: 2026-03-26
+    synced_at: null
+    attempt_count: 0
+    last_error: null
+    run_id: "2026-03-26-1100"
+
+  - user_id: "YT0632850"
+    name: null
+    profile_url: "https://admin.youtrust.jp/headhunter/users/ebd4381c00547cc84685772650d86f48"
+    title: Webエンジニア / AI・機械学習エンジニア
+    company: 株式会社tacoms / 株式会社KENCOPA
+    location: 東京都
+    skills: [Python, React, Terraform, TypeScript, UXデザイン, 事業企画, 新規事業企画]
+    profile_summary: |
+      tacoms所属。React 5年+、TypeScript 5年+、Terraform 1年+。
+      事業企画3年+、新規事業企画3年+。転職を検討中。
+      既にスカウト済み（2025年12月）。
+    match_score: 5
+    match_notes: |
+      フルスタック+新規事業企画3年+の組み合わせが求人に強くマッチ。
+      ただし既スカウト済み。
+    scout_message: |
+      はじめまして、合同会社Plus X代表の藤本と申します。プロフィールを拝見し、ぜひお声がけさせていただきました。
+
+      製造業向けデータプラットフォームを展開する急成長スタートアップで、新規事業開発エンジニアを募集しています。200億円以上の大型調達実施済みの企業です。
+
+      ◎ React/TypeScript5年以上の技術力に加え、新規事業企画3年以上のご経験が光ります
+      ◎ 事業企画とエンジニアリングの両輪を回せる方はとても希少だと感じています
+      ◎ Terraformによるインフラ構築まで手を動かされているのではないかとお見受けしています
+
+      ◎ 事業企画力と技術力の両方を活かせるポジションです
+      ◎ 新規事業の企画段階からエンジニアとして深く関われます
+      ◎ 200億円以上の資金力を背景に大きなチャレンジができる環境です
+
+      カジュアルに30分ほどお話しできると嬉しいです。
+      https://app.spirinc.com/patterns/availability-sharing/9782b79f-044a-44fc-8cb3-98cef3d07975/confirm
+    status: draft
+    added_at: 2026-03-26
+    synced_at: null
+    attempt_count: 0
+    last_error: null
+    run_id: "2026-03-26-1100"
+
+  - user_id: "YT4420936"
+    name: null
+    profile_url: "https://admin.youtrust.jp/headhunter/users/3ae35178afa9432cc54562e995222d04"
+    title: Webエンジニア
+    company: フリーランス（個人事業主）
+    location: null
+    skills: [AWS, ArgoCD, GCP, Go, Kubernetes, OpenAPI, Python, React, Terraform, TypeScript, gRPC]
+    profile_summary: |
+      フルスタックエンジニア。アーリーステージのスタートアップでSaaS開発。
+      特定領域のスペシャリストではなく、領域横断で対応するジェネラリスト。
+      572人が興味あり。「転職はよい案件があれば」。既スカウト済み（2026年2月）。
+    match_score: 5
+    match_notes: |
+      AWS/GCP/Go/K8s/React/TS/Terraform/gRPC。スタートアップSaaS開発経験。
+      ジェネラリスト志向で0→1に最適。ただし既スカウト済み。
+    scout_message: |
+      はじめまして、合同会社Plus X代表の藤本と申します。ご経歴を拝見し、ぜひお話しさせていただきたくご連絡しました。
+
+      製造業向けデータプラットフォームを展開する急成長スタートアップで、新規事業開発エンジニアを募集しています。200億円以上の大型調達実施済みの企業です。
+
+      ◎ AWS/GCP/Go/K8s/React/TypeScript/Terraform/gRPCと幅広い技術スタックをお持ちの点に惹かれました
+      ◎ アーリーステージのスタートアップでSaaS開発をされてきたご経験が、まさに求めている人物像です
+      ◎ 領域横断で対応されるジェネラリスト志向が、0→1フェーズに最適ではないかとお見受けしています
+
+      ◎ 新規事業の立ち上げで技術選定から幅広くお任せできます
+      ◎ ジェネラリストとしての力を存分に発揮いただけるフェーズです
+      ◎ スタートアップ経験を活かしつつ、安定した資金基盤で開発に集中できます
+
+      30分ほどカジュアルにお話しできると嬉しいです。
+      https://app.spirinc.com/patterns/availability-sharing/9782b79f-044a-44fc-8cb3-98cef3d07975/confirm
+    status: draft
+    added_at: 2026-03-26
+    synced_at: null
+    attempt_count: 0
+    last_error: null
+    run_id: "2026-03-26-1100"
+
+  - user_id: "YT1178438"
+    name: null
+    profile_url: "https://admin.youtrust.jp/headhunter/users/84981d5f0c629e279c38c80d5ed94c43"
+    title: エンジニアリングマネージャー / テックリード
+    company: 株式会社Speee
+    location: null
+    skills: [AWS, Go, Kubernetes, React, Ruby on Rails, TypeScript, Terraform, エンジニア採用, ピープルマネジメント, プロジェクトマネジメント, 新卒採用]
+    profile_summary: |
+      Speee EM。4つの事業ユニットと開発基盤チーム担当。
+      リードエンジニアとして新規事業立ち上げを牽引。
+      「転職はまったく考えていない」「副業もまったく考えていない」。
+    match_score: 5
+    match_notes: |
+      EM/TL+新規事業経験+フルスタック（AWS/Go/React/TS/K8s/Terraform）。
+      スキル・経験は完璧だが、転職意欲がまったくないため返信率は低い。
+    scout_message: |
+      はじめまして、合同会社Plus X代表の藤本と申します。ご経歴を拝見し、ぜひお声がけさせていただきました。
+
+      製造業向けデータプラットフォームを展開する急成長スタートアップで、新規事業開発エンジニアを募集しています。200億円以上の大型調達実施済みの企業です。
+
+      ◎ 4事業ユニットと開発基盤チームを横断的にマネジメントされている点に深く感銘を受けました
+      ◎ リードエンジニアとして新規事業立ち上げを牽引されたご経験が、今回のポジションに直結すると感じています
+      ◎ AWS/Go/React/TS/K8s/Terraformの技術力とピープルマネジメントを両立されているのではないかとお見受けしています
+
+      ◎ 新規事業を技術・組織両面からリードいただけるポジションです
+      ◎ 複数事業を見てこられた知見を活かし、事業戦略にも関われます
+      ◎ 開発組織の拡大期で、組織設計の腕を振るっていただけます
+
+      情報交換程度でも構いませんので、30分ほどお話しできると嬉しいです。
+      https://app.spirinc.com/patterns/availability-sharing/9782b79f-044a-44fc-8cb3-98cef3d07975/confirm
+    status: draft
+    added_at: 2026-03-26
+    synced_at: null
+    attempt_count: 0
+    last_error: null
+    run_id: "2026-03-26-1100"
