@@ -1,0 +1,49 @@
+schema_version: 1
+job_id: test-dummy
+platform: youtrust
+list_id: "4da5ecca25b064da75a4c8f910ad46c7"
+list_name: "[テスト] バックエンドエンジニア_テスト案件"
+source_query: null
+search_filters_used:
+  転職意欲: まったく考えていない
+  職種: 未記入
+  最終ログイン: "2025年以前"
+  フリーワード: null
+hit_count: null
+updated_at: 2026-03-26
+candidates:
+  - user_id: "YT2291215"
+    name: null
+    profile_url: "https://admin.youtrust.jp/headhunter/users/227e5a39119485c721307cf4c793c40f"
+    title: "開発本部 弁護士ドットコム開発部"
+    company: "弁護士ドットコム株式会社"
+    location: "北海道"
+    skills: [AWS, PHP, TypeScript, アーキテクチャ設計, テックリード, 要件定義]
+    profile_summary: |
+      弁護士ドットコムで開発部に所属（2025/3〜）。レガシーコード改善・アジャイル開発推進。
+      前職WAKUWAKUでシステムソリューション部マネージャー（2019/7〜2025/2）。
+      不動産営業向けMA SaaS開発、BIダッシュボード開発、プロダクトマネジメント。
+      ビデックスでECサイト開発・動画配信（2007/12〜2019/6）。
+      日本ビクターで研究開発（2003/4〜2007/11）。東京工業大学 物理情報システム専攻。
+    match_score: 4
+    match_notes: |
+      AWS経験あり（スコア4条件）、PHP/TypeScriptでのバックエンド開発経験豊富。
+      Go/Pythonの直接経験はプロフィールから確認できないが、
+      20年以上のエンジニア経験とアーキテクチャ設計・テックリード・要件定義スキルから
+      技術的適応力は高いと判断。マネジメント経験は加点要素。
+    scout_message: |
+      はじめまして。
+      合同会社Plus X代表の藤本と申します。
+
+      【テスト用ダミーメッセージ】
+      これは動作テスト用のスカウト文面です。実際には送信しません。
+
+      ◎20年以上にわたるエンジニア経験の中で、EC・SaaS・リーガルテックと幅広い領域で開発をリードされてきたご実績を拝見しました。
+      ◎WAKUWAKUでのマネージャー経験とプロダクトマネジメントのご経験から、技術と事業の両面で貢献いただけるのではないかとお見受けしています。
+      ◎アーキテクチャ設計やテックリードのスキルをお持ちで、チーム全体の技術力向上にも寄与いただけると考えております。
+    status: listed
+    added_at: 2026-03-26
+    synced_at: 2026-03-26
+    attempt_count: 0
+    last_error: null
+    run_id: "2026-03-26-1830"
