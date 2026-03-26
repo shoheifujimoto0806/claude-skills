@@ -1,0 +1,14 @@
+name: "<媒体名>"
+url: "<媒体URL>"
+auth: browser_session
+actions:
+  search: true
+  create_list: true
+  add_to_list: true
+  remove_from_list: true
+constraints:
+  scout_message_max_chars: null
+  daily_send_limit: null
+  search_filters: []
+  pagination: true
+known_issues: []

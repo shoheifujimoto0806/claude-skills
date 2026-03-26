@@ -4,8 +4,13 @@
 
 ## Skills 一覧
 
-- `scout-prep` — 求人票からスカウト準備（検索条件・スカウトメール）を一括生成
-- `scout-pm` — スカウト準備全体を統括するPMスキル（候補者プール管理含む）
+- `scout-pm` — スカウト業務を統括するPMスキル（唯一のユーザー向けスキル。frontmatter 付き）
+- `scout-prep` — サブスキル: 求人票からスカウト準備（要件構造化・検索条件・スカウト文面）を生成
+- `scout-operator` — サブスキル: 媒体上での候補者検索・リスト管理（ブラウザ操作）
+
+## 開発ルール
+
+- 3行以上の実装・変更時は、作業をできるだけ小さく分割してサブエージェントで並列実装し、メインエージェントはレビューのみ行う
 
 ## Claude Skills 公式ドキュメント
 
@@ -22,12 +27,37 @@ Skill の作成・改善時は以下を参照すること。
 ファイルやフォルダを追加・削除・移動したときは、このセクションを必ず更新すること。
 
 ```
-CLAUDE.md                  — プロジェクト設定・リファレンス（このファイル）
-OBJECTIVE.md               — プロジェクトの完了条件（フェーズ別）
-skills/
-  scout-prep/SKILL.md      — スカウト準備スキル
-  scout-pm/SKILL.md        — スカウトPMスキル
+CLAUDE.md                          — プロジェクト設定・リファレンス（このファイル）
+OBJECTIVE.md                       — プロジェクトの完了条件（フェーズ別）
+data/                              — 候補者データ（Git 追跡対象）
+  jobs/                            — 求人 x 媒体の単位でファイルを格納
+  candidates/
+    index.yaml                     — 派生物: jobs から再生成される候補者インデックス
+docs/
+  skill-management.md              — スキル管理ガイド（人間向け。Claude は読まなくてよい）
 .claude/
   skills/
-    skill-creator/         — Skill作成・評価ツール（Anthropic公式）
+    scout-pm/                      — ユーザー向けスキル（唯一の frontmatter 付き）
+      SKILL.md                     — フロー全体のオーケストレータ
+      gotchas.md                   — フロー管理の注意事項
+    scout-prep/                    — サブスキル（frontmatter なし）
+      SKILL.md                     — 準備スキル本文
+      gotchas.md                   — よくある失敗・注意事項
+      templates/
+        job-requirements.md        — 求人要件の構造化テンプレート
+        persona.md                 — ターゲットペルソナ定義テンプレート
+        scout-message.md           — スカウトメール共通テンプレート
+        search-conditions.md       — 検索条件共通テンプレート
+    scout-operator/                — サブスキル（frontmatter なし）
+      SKILL.md                     — 媒体操作スキル本文（検索・リスト管理）
+      gotchas.md                   — 媒体操作の注意事項
+    references/                    — 複数スキル共有リファレンス
+      platforms/
+        _template/                 — 新媒体追加時の雛形
+          manifest.yaml            — 媒体仕様の構造化データ雛形
+          platform.md              — 媒体リファレンスの雛形
+        youtrust/                  — YouTrust 固有の仕様・操作手順
+          manifest.yaml            — YouTrust 仕様
+          platform.md              — YouTrust UI操作手順・注意事項
+    skill-creator/                 — Skill作成・評価ツール（Anthropic公式）
 ```
