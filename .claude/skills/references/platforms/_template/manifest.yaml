@@ -9,6 +9,9 @@ actions:
 constraints:
   scout_message_max_chars: null
   daily_send_limit: null
-  search_filters: []
+  search_filters:
+    - name: "<フィルタ名>"
+      type: "<select | text | select_range>"
+      options: []   # select の場合は選択肢を列挙
   pagination: true
 known_issues: []
